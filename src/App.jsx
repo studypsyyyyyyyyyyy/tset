@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <p>
-        김별
+        해커톤 화이팅!
       </p>
     </>
   )
